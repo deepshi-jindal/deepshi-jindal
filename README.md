@@ -9,5 +9,5 @@
  <img src="https://komarev.com/ghpvc/?username=deepshi-jindal&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/EZnlMRCw7jkyqt4vLk/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/EZnlMRCw7jkyqt4vLk/giphy.gif" width="100%" height="100%"/>
 </div>
