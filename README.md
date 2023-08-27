@@ -8,4 +8,6 @@
 </div>
  <img src="https://komarev.com/ghpvc/?username=deepshi-jindal&style=flat-square&color=blue" alt=""/>
 </div>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/EZnlMRCw7jkyqt4vLk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/9mmdigital-designer-website-landingpage-EZnlMRCw7jkyqt4vLk">via GIPHY</a></p>
+<div align="center">
+  <img src="https://giphy.com/embed/EZnlMRCw7jkyqt4vLk" width="600" height="300"/>
+</div>
