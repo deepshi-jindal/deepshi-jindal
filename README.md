@@ -88,7 +88,7 @@
 
 - 🌱 I’m currently learning **Data Engineering, AWS, Machine Learning**
 
-- 📫 How to reach me **deepshijindal8@gmail.com**
+- 📫 How to reach me **deepshijindal18@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
